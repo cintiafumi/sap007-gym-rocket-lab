@@ -1,0 +1,11 @@
+.container {
+  box-shadow: 0 2px 5px 0 rgb(3 6 26 / 15%);
+  padding: 30px;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
