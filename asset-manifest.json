@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sap007-gym-rocket-lab/static/css/main.f12b3c97.css",
+    "main.js": "/sap007-gym-rocket-lab/static/js/main.9e68be9b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sap007-gym-rocket-lab/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/sap007-gym-rocket-lab/index.html",
+    "main.f12b3c97.css.map": "/sap007-gym-rocket-lab/static/css/main.f12b3c97.css.map",
+    "main.9e68be9b.js.map": "/sap007-gym-rocket-lab/static/js/main.9e68be9b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sap007-gym-rocket-lab/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12b3c97.css",
+    "static/js/main.9e68be9b.js"
+  ]
+}
